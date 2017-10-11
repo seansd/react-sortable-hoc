@@ -4,12 +4,6 @@
 ## FORKED TO REMOVE UNEEDED BABEL dependency
 > FROM <a href="https://github.com/clauderic/react-sortable-hoc/">react-sortable-hoc</a> @ 10/11/2017
 
-[![npm version](https://img.shields.io/npm/v/react-sortable-hoc.svg)](https://www.npmjs.com/package/react-sortable-hoc)
-[![npm downloads](https://img.shields.io/npm/dm/react-sortable-hoc.svg)](https://www.npmjs.com/package/react-sortable-hoc)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/clauderic/react-sortable-hoc/blob/master/LICENSE)
-[![Gitter](https://badges.gitter.im/clauderic/react-sortable-hoc.svg)](https://gitter.im/clauderic/react-sortable-hoc)
-![gzip size](http://img.badgesize.io/https://npmcdn.com/react-sortable-hoc/dist/umd/react-sortable-hoc.min.js?compression=gzip)
-
 ### Examples available here: <a href="#">http://clauderic.github.io/react-sortable-hoc/</a>
 
 <a href="https://app.codesponsor.io/link/oN9PDWZz8fQcbh9sxpDEUvD5/clauderic/react-sortable-hoc" rel="nofollow"><img src="https://app.codesponsor.io/embed/oN9PDWZz8fQcbh9sxpDEUvD5/clauderic/react-sortable-hoc.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
