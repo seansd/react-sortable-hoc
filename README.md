@@ -1,6 +1,9 @@
 # React Sortable (HOC)
 > A set of higher-order components to turn any list into an animated, touch-friendly, sortable list.
 
+## FORKED TO REMOVE UNEEDED BABEL dependency
+> FROM <a href="https://github.com/clauderic/react-sortable-hoc/">react-sortable-hoc</a> @ 10/11/2017
+
 [![npm version](https://img.shields.io/npm/v/react-sortable-hoc.svg)](https://www.npmjs.com/package/react-sortable-hoc)
 [![npm downloads](https://img.shields.io/npm/dm/react-sortable-hoc.svg)](https://www.npmjs.com/package/react-sortable-hoc)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/clauderic/react-sortable-hoc/blob/master/LICENSE)
@@ -158,11 +161,11 @@ const SortableList = SortableContainer(({items}) => {
   return (
     <ul>
       {items.map((value, index) => (
-        <SortableItem 
+        <SortableItem
           key={`item-${index}`}
           index={index}
           sortIndex={index}
-          value={value} 
+          value={value}
         />
       ))}
     </ul>
